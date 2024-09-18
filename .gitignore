@@ -1,7 +1,7 @@
 # Ignore file config.properties
 config.properties.ori
 
-# Ignore manifest/mf file
+# Ignore manifest.mf file
 manifest.mf
 
 # Ignore build.xml file
