@@ -1,0 +1,26 @@
+# Ignore file config.properties
+config.properties.ori
+
+# Ignore manifest/mf file
+manifest/mf
+
+# Ignore build.xml file
+build.xml
+
+# Ignore .zip files
+*.zip
+
+# Ignore test folder
+test/
+
+# Ignore nbproject folder
+nbproject/
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore build folder
+build/
+
+# Ignore dist folder
+dist/
